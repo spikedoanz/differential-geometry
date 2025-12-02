@@ -1,0 +1,3 @@
+[submodule "ddg-exercises-js"]
+	path = ddg-exercises-js
+	url = git@github.com:spikedoanz/ddg-exercises-js.git
